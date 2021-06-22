@@ -2,7 +2,7 @@
 openapi: 3.0.0
 info:
   title: Swagger Petstore
-  description: |
+  descriptions: |
     This is a sample Petstore server.  You can find
     out more about Swagger at
     [http://swagger.io](http://swagger.io) or on
